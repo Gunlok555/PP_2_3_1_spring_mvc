@@ -1,5 +1,4 @@
-package web.Config;
-
+package web.config;
 import org.hibernate.jpa.HibernatePersistenceProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;

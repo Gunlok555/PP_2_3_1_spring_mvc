@@ -1,4 +1,4 @@
-package web.Config;
+package web.config;
 
 import org.springframework.web.filter.CharacterEncodingFilter;
 import org.springframework.web.filter.HiddenHttpMethodFilter;
